@@ -1,0 +1,148 @@
+ .img1{
+    background-image: url("zomato.png");
+    min-height: 714px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    top: -80px;
+   
+   
+  
+
+  
+ 
+   
+
+} 
+
+
+
+
+.div1{
+    margin-right: 250px;
+    top: 75px;
+    
+
+}
+
+.imglogo{
+    height: 50px;
+
+    
+}
+.div-wrapp{
+    bottom: 30%;
+    width: 100%;
+    position: absolute;
+    top: 200px;
+   
+
+
+}
+.div-innerwrap{
+   
+   
+    
+}
+.div2{
+   
+margin-top: 650px; 
+display: flex;
+justify-content: center; 
+
+
+}
+.div-innerwrap1{
+   width: 600px;
+   text-align: center;
+   
+   
+    
+}
+
+.div3{
+    width: 100%;
+    
+
+}
+.div3 p{
+    font-size: 1.2rem;
+    text-align: center;
+
+}
+
+    
+  
+    
+    
+    
+
+
+.div4{
+    width: auto;
+}
+
+.box{
+    
+    
+    border: solid 1px;
+    border-color: b;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+.box:hover{
+    box-shadow: rgba(28, 28, 28, 0.08) 3px 4px 2.85246px;
+}
+
+.div4 i{
+    size: 15;
+    margin-left: 100px;
+}
+.div4 h5{
+    font-size: 1.5rem;
+    color:    rgb(28, 28, 28);
+    font-weight: 400;
+    opacity: .5px;
+}
+@media screen and (max-width:576px) {
+    .div4 h5{
+        font-size: 1.2rem;
+
+    }
+}
+
+
+footer{
+    box-shadow: 0 0px 5px  rgba(0, 0, 0, 0.15);
+    background: rgb(248, 248, 248)
+  }
+.about i, img{
+    cursor: pointer;
+}
+
+ .about div h4{
+    text-transform: uppercase;
+    font-size: 1.2rem;
+
+ } 
+  .about div h6{
+    color: rgba(0, 0, 0, 0.58);
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: 300;
+  }
+  .about div h6:hover{
+    color: black;
+  }
+
+
+  .bline{
+    border-color: rgb(207, 207, 207);
+  }
+  .copyright p{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.58);
+  }
+ 
